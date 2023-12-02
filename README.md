@@ -1,2 +1,8 @@
 # Tech4Dev_Fellowship-Programme
-All what l was trained of and the personal project l created from the six month programme
+All what l was trained of and the personal project l created from the six-month programme
+First Month 
+## Overview of the Course
+### First Month : Definition of Data Science and various roles played by the data scientist and the different names called by them. Also, the definition of data was simplified and we knew that data is all about information all around us. However, the industries  applications of data analytics can be found are the marketing and sales, finance and banking, health care, operation and supply chains and so on. Data analytics can use big data to uncover hidden patterns, trends, correlations, and insights that be inferred. The insights of the data analytics process was given to us in terms of the following:
+Definition of the problem, Data Collection, Data Cleaning, Data Analysis, Interpretation and visualization, decision-making process.
+Then indepth knowledge was discussed about machine learning and artificial intelligence(AI) and the various types of AI. The application of the AI and machine learning and it importance in the various industries. 
+### Discussion of Statistics and Probability was the next section of learning. Definition of statistics and its importance in the field of data science. Knowledge of types of data was well explained that is the quantitative data and qualitative data. In the analysis of quantitative data these varieties of measure is taken into consideration which are measure of centre[ that include the mean, median,mode],measure of spread, shapae of data, and outlier. Descriptive statistics and inferential statistics was later dive into and got to understand it importance in the domain in data science
